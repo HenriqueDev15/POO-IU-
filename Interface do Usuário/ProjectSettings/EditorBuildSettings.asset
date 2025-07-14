@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Jogo_PJD2M.unity
+    guid: 8367b2a8b3943a142b01c2ffb39fda09
+  - enabled: 1
+    path: Assets/Scenes/Texto.unity
+    guid: 040d8e96a3d1a2746a0e5403391cc10d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
